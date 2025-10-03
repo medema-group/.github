@@ -7,7 +7,7 @@ The Medema research group at Wageningen University, develops and applies algorit
 
 To this end, we develop tools and algorithms for the analysis and integration of omics data, curate and maintain databases, and collaborate with wet-lab scientists.
 
-Together with our collaborators, we have created numerous state-of-the-art tools, such as [antiSMASH](https://antismash.secondarymetabolites.org) and [BiG-SCAPE/CORASON](https://github.com/medema-group/BiG-SCAPE), and gold-standard databases such as [MIBiG](https://mibig.secondarymetabolites.org/) and [antiSMASH-DB](https://antismash-db.secondarymetabolites.org/).
+Together with our collaborators, we have created numerous state-of-the-art tools, such as [antiSMASH](https://antismash.secondarymetabolites.org) and [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE), and gold-standard databases such as [MIBiG](https://mibig.secondarymetabolites.org/) and [antiSMASH-DB](https://antismash-db.secondarymetabolites.org/).
 
 Contents
 -----------------
@@ -33,7 +33,7 @@ Overview of the projects/repositories governed by the Medema group.
 | Name                                                   | Description                       | License                                            | Zenodo | Participation |
 |--------------------------------------------------------|-----------------------------------|----------------------------------------------------|--------|------------|
 | [BiG-MAP](https://github.com/medema-group/https://github.com/medema-group/BiG-MAP)   | BGC Meta'omics abundance profiler | [MIT](https://opensource.org/license/mit)      | N/A | Invited (public) |
-| [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE) | BGC organization tool             | [AGLP-3.0](https://opensource.org/license/agpl-v3) |  N/A | Invited (public) |
+| [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE) | BGC clustering tool             | [AGLP-3.0](https://opensource.org/license/agpl-v3) |  N/A | Invited (public) |
 | tba | tba | tba | tba | tba | tba |
 
 ### Transcriptomics

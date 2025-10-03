@@ -1,2 +1,0 @@
-# .github
-Orga-level repo

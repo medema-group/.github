@@ -33,10 +33,10 @@ Overview of the projects/repositories governed by the Medema group.
 
 ### Genome mining and organization
 
-| Name                                                   | Description                       | License                                            | Contact                                         | Zenodo | Participation |
-|--------------------------------------------------------|-----------------------------------|----------------------------------------------------|-------------------------------------------------|--------|------------|
-| [BiG-MAP](https://github.com/medema-group/https://github.com/medema-group/BiG-MAP)   | BGC Meta'omics abundance profiler | [MIT](https://opensource.org/license/mit)      | [Nico Louwen](https://github.com/nlouwen)   | N/A | Invited (public) |
-| [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE) | BGC organization tool             | [AGLP-3.0](https://opensource.org/license/agpl-v3) | [Arjan Draisma](https://github.com/adraismawur) | N/A | Invited (public) |
+| Name                                                   | Description                       | License                                            | Zenodo | Participation |
+|--------------------------------------------------------|-----------------------------------|----------------------------------------------------|--------|------------|
+| [BiG-MAP](https://github.com/medema-group/https://github.com/medema-group/BiG-MAP)   | BGC Meta'omics abundance profiler | [MIT](https://opensource.org/license/mit)      | N/A | Invited (public) |
+| [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE) | BGC organization tool             | [AGLP-3.0](https://opensource.org/license/agpl-v3) |  N/A | Invited (public) |
 | tba | tba | tba | tba | tba | tba |
 
 ### Transcriptomics

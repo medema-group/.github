@@ -3,14 +3,11 @@
 
 **Welcome to the Medema Group GitHub page!**
 
-We at the Medema research group at Wageningen University, the Netherlands, are investigating natural products, naturally occurring molecules with specialized biological activities, such as antibiotic properties.
-The biosynthesis of such compounds is often organized in so-called biosynthetic gene clusters (BGCs), which the Medema group has a particular interest in.
+The Medema research group at Wageningen University, develops and applies algorithms for the (meta)genomic identification and functional prediction of microbial and plant biosynthetic pathways, with the aim to unravel the chemical language of microbiomes, and host-microbe interactions and accelerate natural product discovery. 
 
-We are interested in studying the occurrence, ecological functions, and purpose of these specialized metabolites in the context of drug discovery, host-microbiome interactions, and rhizosphere investigation.
+To this end, we develop tools and algorithms for the analysis and integration of omics data, curate and maintain databases, and collaborate with wet-lab scientists.
 
-For this, we build and use omics data processing tools, curate and maintain databases, and collaborate with wet-lab scientists.
-
-Together with our collaborators, we have created numerous state-of-the-art tools, such as [antiSMASH](https://antismash.secondarymetabolites.org) and [BiG-SCAPE/CORASON](https://github.com/medema-group/BiG-SCAPE), and gold-standard databases such as [MIBiG](https://mibig.secondarymetabolites.org/) or [antiSMASH-DB](https://antismash-db.secondarymetabolites.org/).
+Together with our collaborators, we have created numerous state-of-the-art tools, such as [antiSMASH](https://antismash.secondarymetabolites.org) and [BiG-SCAPE/CORASON](https://github.com/medema-group/BiG-SCAPE), and gold-standard databases such as [MIBiG](https://mibig.secondarymetabolites.org/) and [antiSMASH-DB](https://antismash-db.secondarymetabolites.org/).
 
 Contents
 -----------------

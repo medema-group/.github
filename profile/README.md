@@ -6,7 +6,7 @@
 We at the Medema research group at Wageningen University, the Netherlands, are investigating natural products, naturally occurring molecules with specialized biological activities, such as antibiotic properties.
 The biosynthesis of such compounds is often organized in so-called biosynthetic gene clusters (BGCs), which the Medema group has a particular interest in.
 
-We are interested in studying their occurrence, ecological functions, and purpose of these specialized metabolites in the context of drug discovery, host-microbiome interactions, and rhizosphere investigation.
+We are interested in studying the occurrence, ecological functions, and purpose of these specialized metabolites in the context of drug discovery, host-microbiome interactions, and rhizosphere investigation.
 
 For this, we build and use omics data processing tools, curate and maintain databases, and collaborate with wet-lab scientists.
 
@@ -21,7 +21,7 @@ Contents
 ## Documentation
 
 Here, we provide documents describing the collaborations within the Medema research group.
-These guidelines apply to all repositories governed by this GitHub Organization:
+These guidelines apply to all repositories governed by this GitHub Organization.
 
 - [📜Code of Conduct](../CODE_OF_CONDUCT.md): guidelines for interacting with the projects.
 - [🤝Contributing](../CONTRIBUTING.md): outline of modes and terms of contributions to the projects.

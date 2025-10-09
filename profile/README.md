@@ -30,15 +30,26 @@ Overview of the projects/repositories governed by the Medema group.
 
 ### Genome mining and organization
 
-| Name                                                   | Description                       | License                                            | Zenodo | Participation |
-|--------------------------------------------------------|-----------------------------------|----------------------------------------------------|--------|------------|
-| [BiG-MAP](https://github.com/medema-group/BiG-MAP)   | BGC Meta'omics abundance profiler | [MIT](https://opensource.org/license/mit)      | N/A | Invited (public) |
-| [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE) | BGC clustering tool             | [AGLP-3.0](https://opensource.org/license/agpl-v3) |  N/A | Invited (public) |
-| tba | tba | tba | tba | tba | tba |
+| Name                                                   | Description                              | License                                            | Zenodo | Participation      | Doc Complete |
+|--------------------------------------------------------|------------------------------------------|----------------------------------------------------|--------|--------------------|--------------|
+| [BiG-FAM](https://github.com/medema-group/bigfamdb)   | BGC Family Database                      | [AGLP-3.0](https://opensource.org/license/agpl-v3)      | N/A    | Invited (internal) | N |
+| [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE) | BGC clustering tool                      | [AGLP-3.0](https://opensource.org/license/agpl-v3) | N/A    | Invited (public)   | N |
+| [BiG-SLICE](https://github.com/medema-group/bigslice) | BGC clustering tool                      | [AGLP-3.0](https://opensource.org/license/agpl-v3)  | N/A    | Invited (public)                | N |
+| [CAGECAT](https://github.com/malanjary-wur/CAGECAT) | BGC comparison and visualization toolobx | [MIT](https://opensource.org/license/mit)    | N/A    | Invited (public)                | N | 
 
 ### Transcriptomics
 
-### Etc
+| Name                                                   | Description                       | License                                            | Zenodo | Participation |Doc Complete |
+|--------------------------------------------------------|-----------------------------------|----------------------------------------------------|--------|------------|------------|
+| [BiG-MAP](https://github.com/medema-group/BiG-MAP)   | BGC Meta'omics abundance profiler | [MIT](https://opensource.org/license/mit)      | N/A | Invited (public) | N |
+
+### Chemical biology
+
+### Paired Omics
+
+### Other
+
+
 
 ## Affiliated organizations
 

@@ -94,7 +94,7 @@ Overview of the projects/repositories governed by the Medema group.
 
 | Name              | Description                          | License       | Zenodo | Participation   | Doc Complete |
 |-------------------|--------------------------------------|---------------|--------|-----------------|--------------|
-| [modern_python](https://github.com/medema-group/modern_python) | A template to set up Python projects | [Unlicense](https://unlicense.org/) | N/A    | Invited(public) | Y            |
+| [modern_python](https://github.com/medema-group/modern_python) | A template to set up Python projects | [Unlicense](https://unlicense.org/) |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17404819.svg)](https://doi.org/10.5281/zenodo.17404819)  | Invited(public) | Y            |
 
 
 ## Affiliated organizations

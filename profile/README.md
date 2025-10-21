@@ -21,14 +21,21 @@ Here, we provide documents describing the collaborations within the Medema resea
 These guidelines apply to all repositories governed by this GitHub Organization.
 
 - [📜Code of Conduct](../CODE_OF_CONDUCT.md): guidelines for interacting with the projects.
-- [🤝Contributing](../CONTRIBUTING.md): outline of modes and terms of contributions to the projects.
-- [👥Discussion](TBA): a discussion board for interaction with the projects.
+- [👥Onboarding Docs](#onboarding-docs): A number of documents to facilitate onboarding.
 
 ## Repository overview
 
 Overview of the projects/repositories governed by the Medema group.
 
-### Genome mining and organization
+- [Genome mining](#genome-mining)
+- [Transcriptomics](#transcriptomics)
+- [Chemical biology](#chemical-biology)
+- [Paired Omics](#paired-omics)
+- [Misc](#misc)
+- [Templates](#templates)
+
+
+### Genome mining
 
 | Name                                                   | Description                              | License                                            | Zenodo | Participation      | Doc Complete |
 |--------------------------------------------------------|------------------------------------------|----------------------------------------------------|--------|--------------------|--------------|
@@ -45,10 +52,27 @@ Overview of the projects/repositories governed by the Medema group.
 
 ### Chemical biology
 
+| Name | Description                       | License                                            | Zenodo | Participation |Doc Complete |
+|------|-----------------------------------|----------------------------------------------------|--------|------------|------------|
+| TBA  | TBA | TBA     | TBA | TBA | TBA |
+
 ### Paired Omics
 
-### Other
+| Name | Description                       | License                                            | Zenodo | Participation |Doc Complete |
+|------|-----------------------------------|----------------------------------------------------|--------|------------|------------|
+| TBA  | TBA | TBA     | TBA | TBA | TBA |
 
+### Misc
+
+| Name | Description                       | License                                            | Zenodo | Participation |Doc Complete |
+|------|-----------------------------------|----------------------------------------------------|--------|------------|------------|
+| TBA  | TBA | TBA     | TBA | TBA | TBA |
+
+### Templates
+
+| Name              | Description                          | License       | Zenodo | Participation   | Doc Complete |
+|-------------------|--------------------------------------|---------------|--------|-----------------|--------------|
+| [modern_python](https://github.com/medema-group/modern_python) | A template to set up Python projects | [Unlicense](https://unlicense.org/) | N/A    | Invited(public) | Y            |
 
 
 ## Affiliated organizations
@@ -63,3 +87,10 @@ Organizations and projects the Medema group is involved with.
 | [FERMO](https://github.com/fermo-metabolomics)| Metabolome mining tool             |
 
 
+## Onboarding docs
+
+A number of documents to facilitate onboarding, including standard operating procedures.
+
+| Name              | Description                                                                       |
+|-------------------|-----------------------------------------------------------------------------------|
+| [TRANSFER REPO](../TRANSFER_REPO_TO_MEDEMA_GROUP.md) | Instructions on transferring repositories to the Medema group GitHub organization |

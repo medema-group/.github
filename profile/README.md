@@ -14,6 +14,7 @@ Contents
 - [Documentation](#documentation)
 - [Repository overview](#repository-overview)
 - [Affiliated organizations](#affiliated-organizations)
+- [Onboarding Docs](#onboarding-docs)
 
 ## Documentation
 

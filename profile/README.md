@@ -81,8 +81,6 @@ Overview of the projects/repositories governed by the Medema group.
 |------|-----------------------------------|----------------------------------------------------|--------|------------|------------|
 | [MEANTools](https://github.com/kumarsaurabh20/meantools)  | TBA | TBA     | TBA | TBA | TBA |
 | [MetaBrassPW](https://github.com/elenadelpup/brasspw)  | TBA | TBA     | TBA | TBA | TBA |
-| [Plantcyc2Wiki](https://github.com/maxmanmull/plantcyc2wiki)  | TBA | TBA     | TBA | TBA | TBA |
-| [Paired metabolomics transcriptomics](https://github.com/elenadelpup/Paired_metabolomics_and_transcriptomics_KG-)  | TBA | TBA     | TBA | TBA | TBA |
 
 ### Misc
 
@@ -108,6 +106,7 @@ Organizations and projects the Medema group is involved with.
 | [MITE](https://github.com/mite-standard)       | Database on tailoring enzymes          |
 | [MolTools](https://github.com/moltools/)   | Tooling for cheminformatics            |
 | [FERMO](https://github.com/fermo-metabolomics) | Metabolome mining tool                 |
+| [Pathway Linked Open Data](https://github.com/pathway-lod) | Linked Open Data for Pathway Information  |
 | [plantiSMASH](https://github.com/plantismash/) | Genome mining tool                     |
 
 

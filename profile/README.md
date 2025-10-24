@@ -38,61 +38,61 @@ Overview of the projects/repositories governed by the Medema group.
 
 ### Genome mining
 
-| Name                                                   | Description                                            | License                                                         | Zenodo                                                                                                      | Participation      | Doc Complete |
-|--------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------|--------------|
-| [BiG-FAM](https://github.com/medema-group/bigfamdb)   | BGC Family Database                                    | [AGLP-3.0](https://opensource.org/license/agpl-v3)              | N/A                                                                                                         | Invited (internal) | N |
-| [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE) | BGC clustering tool                                    | [AGLP-3.0](https://opensource.org/license/agpl-v3)              | N/A                                                                                                         | Invited (public)   | N |
-| [BiG-SLICE](https://github.com/medema-group/bigslice) | BGC clustering tool                                    | [AGLP-3.0](https://opensource.org/license/agpl-v3)              | N/A                                                                                                         | Invited (public)                | N |
-| [CAGECAT](https://github.com/malanjary-wur/CAGECAT) | BGC comparison and visualization toolobx               | [MIT](https://opensource.org/license/mit)                       | N/A                                                                                                         | Invited (public)                | N | 
-| [Decrippter](https://github.com/Alexamk/decRiPPter) | RiPP BGC mining tool                                   | N/A                                                             | N/A                                                                                                         | N/A               | N | 
-| [GutSMASH](https://github.com/victoriapascal/gutsmash) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A               | N | 
-| [iPRESTO](https://git.wur.nl/bioinformatics/iPRESTO) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A               | N | 
-| [Multismash](https://github.com/zreitz/multismash) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A               | N | 
-| [PKSPop](https://github.com/yanwang271/PKSpop) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A               | N | 
-| [rhizoSMASH](https://git.wur.nl/yuze.li/rhizosmash) | Genome mining tool for plant-rhizobacteria interaction | [GNU Affro GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16780331.svg)](https://doi.org/10.5281/zenodo.16780331) | N/A               | N | 
-| [RRE-finder](https://github.com/Alexamk/RREFinder) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A               | N | 
+| Name                                                   | Description                                            | License                                                         | Zenodo                                                                                                      | Contribution       |
+|--------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------|
+| [BiG-FAM](https://github.com/medema-group/bigfamdb)   | BGC Family Database                                    | [AGLP-3.0](https://opensource.org/license/agpl-v3)              | N/A                                                                                                         | Invited (internal) |
+| [BiG-SCAPE](https://github.com/medema-group/BiG-SCAPE) | BGC clustering tool                                    | [AGLP-3.0](https://opensource.org/license/agpl-v3)              | N/A                                                                                                         | Invited (public)   |
+| [BiG-SLICE](https://github.com/medema-group/bigslice) | BGC clustering tool                                    | [AGLP-3.0](https://opensource.org/license/agpl-v3)              | N/A                                                                                                         | Invited (public)   | 
+| [CAGECAT](https://github.com/malanjary-wur/CAGECAT) | BGC comparison and visualization toolobx               | [MIT](https://opensource.org/license/mit)                       | N/A                                                                                                         | Invited (public)   |
+| [Decrippter](https://github.com/Alexamk/decRiPPter) | RiPP BGC mining tool                                   | N/A                                                             | N/A                                                                                                         | N/A                |
+| [GutSMASH](https://github.com/victoriapascal/gutsmash) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A                | 
+| [iPRESTO](https://git.wur.nl/bioinformatics/iPRESTO) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A                |
+| [Multismash](https://github.com/zreitz/multismash) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A                |
+| [PKSPop](https://github.com/yanwang271/PKSpop) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A                |
+| [rhizoSMASH](https://git.wur.nl/yuze.li/rhizosmash) | Genome mining tool for plant-rhizobacteria interaction | [GNU Affro GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16780331.svg)](https://doi.org/10.5281/zenodo.16780331) | N/A                |
+| [RRE-finder](https://github.com/Alexamk/RREFinder) | N/A                                                    | N/A                                                             | N/A                                                                                                         | N/A                |
 
 ### Transcriptomics
 
-| Name                                                      | Description                       | License                                   | Zenodo | Participation    |Doc Complete |
-|-----------------------------------------------------------|-----------------------------------|-------------------------------------------|--------|------------------|------------|
-| [BiG-MAP](https://github.com/medema-group/BiG-MAP)        | BGC Meta'omics abundance profiler | [MIT](https://opensource.org/license/mit) | N/A | Invited (public) | N |
-| [COCOLOCUS](https://github.com/robert-koetsier/COCOLOCUS) | Co-expression analysis for BGC functional inference | TBA                                       | N/A | N/A              | N |
+| Name                                                      | Description                       | License                                   | Zenodo | Contribution    |
+|-----------------------------------------------------------|-----------------------------------|-------------------------------------------|--------|------------------|
+| [BiG-MAP](https://github.com/medema-group/BiG-MAP)        | BGC Meta'omics abundance profiler | [MIT](https://opensource.org/license/mit) | N/A | Invited (public) |
+| [COCOLOCUS](https://github.com/robert-koetsier/COCOLOCUS) | Co-expression analysis for BGC functional inference | TBA                                       | N/A | N/A              |
 | [LogoMotif](https://git.wur.nl/augus011/logomotif)        | TBA | TBA                                       | N/A | N/A              | N |
 | [MiniMotif](https://github.com/HAugustijn/MiniMotif/)     | TBA | TBA                                       | N/A | N/A              | N |
-| [Whokaryote](https://github.com/LottePronk/whokaryote)    | Classify metagenomic contigs as eukaryotic or prokaryotic | [GNU Affro GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html)                                        | N/A | N/A              | N |
+| [Whokaryote](https://github.com/LottePronk/whokaryote)    | Classify metagenomic contigs as eukaryotic or prokaryotic | [GNU Affro GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html)                                        | N/A | N/A              |
 
 ### Chemical biology
 
-| Name           | Description                                                                                     | License                                   | Zenodo | Participation |Doc Complete |
-|----------------|-------------------------------------------------------------------------------------------------|-------------------------------------------|--------|------------|------------|
-| [biosynfoni](https://github.com/lucinamay/biosynfoni) | Substructure-based fingerprint for estimating biosynthetic similarity between natural products. | [MIT](https://opensource.org/license/mit) | TBA | TBA | TBA |
-| [CineMol](https://github.com/moltools/CineMol) | Direct-to-SVG 3D molecule drawer.                                                               | [MIT](https://opensource.org/license/mit) | TBA | TBA | TBA |
-| [CytoMol/COMET](https://github.com/moltools/CineMol) | Substrucutre-based inference of natural product bioactivity. | [MIT](https://opensource.org/license/mit) | TBA | TBA | TBA |
-| [Donphan](https://github.com/donphan-database) | TBA                                                                                             | TBA                                       | TBA | TBA | TBA |
-| [PARASECT](https://github.com/bthedragonmaster/parasect) | NRP A-domain substrate specificity prediction models.                                           | [MIT](https://opensource.org/license/mit) | TBA | TBA | TBA |
-| [PIKAChU](https://github.com/bthedragonmaster/PIKAChU) | Cheminformatics toolkit.                                                                        | [MIT](https://opensource.org/license/mit) | TBA | TBA | TBA |
-| [RAIChU](https://github.com/bthedragonmaster/RAIChU) | Python-based informatics tool for the visualisation of natural product chemistry.               | [MIT](https://opensource.org/license/mit) | TBA | TBA | TBA |
-| [RetroMol](https://github.com/BTheDragonMaster/RAIChU) | Rule-based retrobiosynthesis for natural products.                                              | [MIT](https://opensource.org/license/mit) | TBA | TBA | TBA |
+| Name           | Description                                                                                     | License                                   | Zenodo | Contribution |
+|----------------|-------------------------------------------------------------------------------------------------|-------------------------------------------|--------|------------|
+| [biosynfoni](https://github.com/lucinamay/biosynfoni) | Substructure-based fingerprint for estimating biosynthetic similarity between natural products. | [MIT](https://opensource.org/license/mit) | TBA | TBA | 
+| [CineMol](https://github.com/moltools/CineMol) | Direct-to-SVG 3D molecule drawer.                                                               | [MIT](https://opensource.org/license/mit) | TBA | TBA |
+| [CytoMol/COMET](https://github.com/moltools/CineMol) | Substrucutre-based inference of natural product bioactivity. | [MIT](https://opensource.org/license/mit) | TBA | TBA | 
+| [Donphan](https://github.com/donphan-database) | TBA                                                                                             | TBA                                       | TBA | TBA | 
+| [PARASECT](https://github.com/bthedragonmaster/parasect) | NRP A-domain substrate specificity prediction models.                                           | [MIT](https://opensource.org/license/mit) | TBA | TBA | 
+| [PIKAChU](https://github.com/bthedragonmaster/PIKAChU) | Cheminformatics toolkit.                                                                        | [MIT](https://opensource.org/license/mit) | TBA | TBA | 
+| [RAIChU](https://github.com/bthedragonmaster/RAIChU) | Python-based informatics tool for the visualisation of natural product chemistry.               | [MIT](https://opensource.org/license/mit) | TBA | TBA |
+| [RetroMol](https://github.com/BTheDragonMaster/RAIChU) | Rule-based retrobiosynthesis for natural products.                                              | [MIT](https://opensource.org/license/mit) | TBA | TBA | 
 
 ### Paired Omics
 
-| Name | Description                       | License                                            | Zenodo | Participation |Doc Complete |
-|------|-----------------------------------|----------------------------------------------------|--------|------------|------------|
-| [MEANTools](https://github.com/kumarsaurabh20/meantools)  | TBA | TBA     | TBA | TBA | TBA |
-| [MetaBrassPW](https://github.com/elenadelpup/brasspw)  | TBA | TBA     | TBA | TBA | TBA |
+| Name | Description                       | License                                            | Zenodo | Contribution |
+|------|-----------------------------------|----------------------------------------------------|--------|------------|
+| [MEANTools](https://github.com/kumarsaurabh20/meantools)  | TBA | TBA     | TBA | TBA |
+| [MetaBrassPW](https://github.com/elenadelpup/brasspw)  | TBA | TBA     | TBA | TBA | 
 
 ### Misc
 
-| Name                        | Description                       | License                                            | Zenodo | Participation |Doc Complete |
-|-----------------------------|-----------------------------------|----------------------------------------------------|--------|------------|------------|
-| [MIBiG submission portal](https://github.com/adraismawur/mibig-submission) | Submission portal for the MIBiG database | TBA     | TBA | TBA | TBA |
+| Name                        | Description                       | License                                            | Zenodo | Contribution |
+|-----------------------------|-----------------------------------|----------------------------------------------------|--------|------------|
+| [MIBiG submission portal](https://github.com/adraismawur/mibig-submission) | Submission portal for the MIBiG database | TBA     | TBA | TBA |
 
 ### Templates
 
-| Name              | Description                          | License       | Zenodo | Participation   | Doc Complete |
-|-------------------|--------------------------------------|---------------|--------|-----------------|--------------|
-| [modern_python](https://github.com/medema-group/modern_python) | A template to set up Python projects | [Unlicense](https://unlicense.org/) |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17404819.svg)](https://doi.org/10.5281/zenodo.17404819)  | Invited(public) | Y            |
+| Name              | Description                          | License       | Zenodo | Contribution   |
+|-------------------|--------------------------------------|---------------|--------|-----------------|
+| [modern_python](https://github.com/medema-group/modern_python) | A template to set up Python projects | [Unlicense](https://unlicense.org/) |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17404819.svg)](https://doi.org/10.5281/zenodo.17404819)  | Invited(public) |
 
 
 ## Affiliated organizations

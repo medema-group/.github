@@ -85,7 +85,7 @@ Overview of the projects/repositories governed by the Medema group.
 
 | Name | Description                       | License                                            | Zenodo | Contribution |
 |------|-----------------------------------|----------------------------------------------------|--------|------------|
-| [Whokaryote](https://github.com/LottePronk/whokaryote)    | Classify metagenomic contigs as eukaryotic or prokaryotic | [GNU Affro GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html) | N/A | N/A
+| [Whokaryote](https://github.com/LottePronk/whokaryote)    | Classify metagenomic contigs as eukaryotic or prokaryotic | [GNU Affro GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html) | N/A | N/A |
 | [PlantMAGIC](https://github.com/LottePronk/plantmagic)  | Plant-associated microbiome MAG database | TBA     | N/A | private | 
 
 

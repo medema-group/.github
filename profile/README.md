@@ -31,8 +31,9 @@ Overview of the projects/repositories governed by the Medema group.
 - [Genome mining](#genome-mining)
 - [Transcriptomics](#transcriptomics)
 - [Chemical biology](#chemical-biology)
-- [Paired Omics](#paired-omics)
+- [Metagenomics](#metagenomics)
 - [Misc](#misc)
+- [Paired Omics](#paired-omics)
 - [Templates](#templates)
 
 
@@ -74,12 +75,6 @@ Overview of the projects/repositories governed by the Medema group.
 | [RAIChU](https://github.com/bthedragonmaster/RAIChU) | Python-based informatics tool for the visualisation of natural product chemistry.               | [MIT](https://opensource.org/license/mit) | TBA | TBA |
 | [RetroMol](https://github.com/BTheDragonMaster/RAIChU) | Rule-based retrobiosynthesis for natural products.                                              | [MIT](https://opensource.org/license/mit) | TBA | TBA | 
 
-### Paired Omics
-
-| Name | Description                       | License                                            | Zenodo | Contribution |
-|------|-----------------------------------|----------------------------------------------------|--------|------------|
-| [MEANTools](https://github.com/kumarsaurabh20/meantools)  | TBA | TBA     | TBA | TBA |
-| [MetaBrassPW](https://github.com/elenadelpup/brasspw)  | TBA | TBA     | TBA | TBA | 
 
 ### Metagenomics
 
@@ -94,6 +89,15 @@ Overview of the projects/repositories governed by the Medema group.
 | Name                        | Description                       | License                                            | Zenodo | Contribution |
 |-----------------------------|-----------------------------------|----------------------------------------------------|--------|------------|
 | [MIBiG submission portal](https://github.com/adraismawur/mibig-submission) | Submission portal for the MIBiG database | TBA     | TBA | TBA |
+
+
+### Paired Omics
+
+| Name | Description                       | License                                            | Zenodo | Contribution |
+|------|-----------------------------------|----------------------------------------------------|--------|------------|
+| [MEANTools](https://github.com/kumarsaurabh20/meantools)  | TBA | TBA     | TBA | TBA |
+| [MetaBrassPW](https://github.com/elenadelpup/brasspw)  | TBA | TBA     | TBA | TBA | 
+
 
 ### Templates
 

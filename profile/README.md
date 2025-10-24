@@ -60,7 +60,6 @@ Overview of the projects/repositories governed by the Medema group.
 | [COCOLOCUS](https://github.com/robert-koetsier/COCOLOCUS) | Co-expression analysis for BGC functional inference | TBA                                       | N/A | N/A              |
 | [LogoMotif](https://git.wur.nl/augus011/logomotif)        | TBA | TBA                                       | N/A | N/A              | N |
 | [MiniMotif](https://github.com/HAugustijn/MiniMotif/)     | TBA | TBA                                       | N/A | N/A              | N |
-| [Whokaryote](https://github.com/LottePronk/whokaryote)    | Classify metagenomic contigs as eukaryotic or prokaryotic | [GNU Affro GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html)                                        | N/A | N/A              |
 
 ### Chemical biology
 
@@ -81,6 +80,14 @@ Overview of the projects/repositories governed by the Medema group.
 |------|-----------------------------------|----------------------------------------------------|--------|------------|
 | [MEANTools](https://github.com/kumarsaurabh20/meantools)  | TBA | TBA     | TBA | TBA |
 | [MetaBrassPW](https://github.com/elenadelpup/brasspw)  | TBA | TBA     | TBA | TBA | 
+
+### Metagenomics
+
+| Name | Description                       | License                                            | Zenodo | Contribution |
+|------|-----------------------------------|----------------------------------------------------|--------|------------|
+| [Whokaryote](https://github.com/LottePronk/whokaryote)    | Classify metagenomic contigs as eukaryotic or prokaryotic | [GNU Affro GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html) | N/A | N/A
+| [PlantMAGIC](https://github.com/LottePronk/plantmagic)  | Plant-associated microbiome MAG database | TBA     | N/A | private | 
+
 
 ### Misc
 

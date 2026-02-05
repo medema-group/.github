@@ -58,7 +58,7 @@ Overview of the projects/repositories governed by the Medema group.
 | Name                                                      | Description                       | License                                   | Zenodo | Contribution    |
 |-----------------------------------------------------------|-----------------------------------|-------------------------------------------|--------|------------------|
 | [BiG-MAP](https://github.com/medema-group/BiG-MAP)        | BGC Meta'omics abundance profiler | [MIT](https://opensource.org/license/mit) | N/A | Invited (public) |
-| [COCOLOCUS](https://github.com/robert-koetsier/COCOLOCUS) | Co-expression analysis for BGC functional inference | TBA                                       | N/A | N/A              |
+| [COCOLOCUS](https://github.com/medema-group/COCOLOCUS) | Co-expression analysis for BGC functional inference | TBA                                       | N/A | N/A              |
 | [LogoMotif](https://git.wur.nl/augus011/logomotif)        | TBA | TBA                                       | N/A | N/A              | N |
 | [MiniMotif](https://github.com/HAugustijn/MiniMotif/)     | TBA | TBA                                       | N/A | N/A              | N |
 
